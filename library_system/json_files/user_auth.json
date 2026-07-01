@@ -1,0 +1,63 @@
+[
+    {
+        "first_name": "Noah",
+        "last_name": "Smith",
+        "email": "noah_smith@gmail.com",
+        "password": "b1cf4cc6dfe36f23fad9dee15b88065f6d7e9ac7d6f3f7fb0043553633b75490",
+        "favourites": [
+            "B00002"
+        ],
+        "history": [
+            "B00002"
+        ],
+        "ratings": {
+            "B00002": 4.5
+        },
+        "books_read": 1
+    },
+    {
+        "first_name": "Emma ",
+        "last_name": " Johnson",
+        "email": "emma.johnson@yahoo.com",
+        "password": "b84c6974db00d383fcd21bdb94f36fb3ce8a9d29e6a7e69cae413230a77d6c7d",
+        "favourites": [],
+        "history": [],
+        "ratings": {},
+        "books_read": 0
+    },
+    {
+        "first_name": "Liam",
+        "last_name": " Davis",
+        "email": "liam_davis@gmail.com",
+        "password": "63f093c63710ec56759d8dd95a6614c7528a486bb422baf4b39a741a55a8155a",
+        "favourites": [],
+        "history": [],
+        "ratings": {},
+        "books_read": 0
+    },
+    {
+        "first_name": "Lena",
+        "last_name": "Milize",
+        "email": "lena.milize@gmail.com",
+        "password": "278e80eea4719434334190fc42326f84f0ee4752c689816b98417657517d5e8f",
+        "favourites": [
+            "B00012",
+            "B00007",
+            "B00006",
+            "B00004",
+            "B00011"
+        ],
+        "history": [
+            "B00012",
+            "B00004",
+            "B00011"
+        ],
+        "ratings": {
+            "B00012": 4.2,
+            "B00007": 5.0,
+            "B00009": 5.0,
+            "B00011": 4.2
+        },
+        "books_read": 3
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "full_name": "Alex Carter",
+        "email": "alex.carter@gmail.com",
+        "password": "4a09fa9867a6ea9df3fd3469b6c716130144351e164f277053e61cd9c3f7e5dd",
+        "books_added": 1,
+        "remove_books": 1
+    },
+    {
+        "full_name": "Sarah  Wilson",
+        "email": "sarah_w@yahoo.com",
+        "password": "7f2205223bdf73d0f1400f182a4bf7d4615926e628f72cc457e9adb37863fac4",
+        "books_added": 1,
+        "remove_books": 1
+    },
+    {
+        "full_name": "Ethan Brooks",
+        "email": "ethan.brooks@gmail.com",
+        "password": "ac63f7ed9fb2426672c047f46f0f35be2ec4b949154302ccd9978948e8f0d141",
+        "books_added": 1,
+        "remove_books": 1
+    },
+    {
+        "full_name": "Syed Zaheeb",
+        "email": "syed@gmail.com",
+        "password": "c77be47fc15417ad34d42583770c6d3a9ab77dc98645ec487f9623584b7e6b86",
+        "books_added": 1,
+        "remove_books": 1
+    }
+]

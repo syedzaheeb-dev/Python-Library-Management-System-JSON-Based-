@@ -1,0 +1,74 @@
+=========================================
+           DEMO ADMIN ACCOUNTS
+=========================================
+
+1.
+
+Full Name : Alex Carter
+Email     : alex.carter@gmail.com
+Password  : Alex@123
+
+-----------------------------------------
+
+2.
+
+Full Name : Sarah Wilson
+Email     : sarah_w@yahoo.com
+Password  : Sarah#456
+
+-----------------------------------------
+
+3.
+
+Full Name : Ethan Brooks
+Email     : ethan.brooks@gmail.com
+Password  : Ethan$789
+
+
+-----------------------------------------
+
+
+4.
+
+Full Name : Syed Zaheeb
+Email     : syed@gmail.com
+Password  : Python@
+
+
+
+
+=========================================
+            DEMO USER ACCOUNTS
+=========================================
+
+1.
+
+Name      : Noah Smith
+Email     : noah_smith@gmail.com
+Password  : Noah@123
+
+-----------------------------------------
+
+2.
+
+Name      : Emma Johnson
+Email     : emma.johnson@yahoo.com
+Password  : Emma#456
+
+-----------------------------------------
+
+3.
+
+Name      : Liam Davis
+Email     : liam_davis@gmail.com
+Password  : Liam$789
+
+=========================================
+
+4.
+
+Name      : Lena Milize
+Email     : lena.milize@gmail.com
+Password  : lena@123
+
+=========================================

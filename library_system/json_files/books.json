@@ -1,0 +1,198 @@
+[
+    {
+        "uid": "B00001",
+        "title": "Dragon Ball",
+        "author": "Akira Toriyama",
+        "category": "Fantasy",
+        "read_count": 20,
+        "favourite_count": 53,
+        "ratings": {
+            "users_count": 38,
+            "total_ratings": 115.5,
+            "average_rating": 3.0
+        },
+        "trending_score": 430.0
+    },
+    {
+        "uid": "B00002",
+        "title": "One Piece",
+        "author": "Echiero ODA",
+        "category": "Fantasy",
+        "read_count": 401,
+        "favourite_count": 33,
+        "ratings": {
+            "users_count": 95,
+            "total_ratings": 371.2,
+            "average_rating": 3.9
+        },
+        "trending_score": 1532.5
+    },
+    {
+        "uid": "B00003",
+        "title": "Naruto Shippuden",
+        "author": "Kishimoto",
+        "category": "Fantasy",
+        "read_count": 39,
+        "favourite_count": 89,
+        "ratings": {
+            "users_count": 26,
+            "total_ratings": 109.6,
+            "average_rating": 4.2
+        },
+        "trending_score": 487.5
+    },
+    {
+        "uid": "B00004",
+        "title": "Bleach",
+        "author": "Tite Kubo",
+        "category": "ACTION",
+        "read_count": 402,
+        "favourite_count": 90,
+        "ratings": {
+            "users_count": 63,
+            "total_ratings": 192.1,
+            "average_rating": 3.0
+        },
+        "trending_score": 1096.0
+    },
+    {
+        "uid": "B00005",
+        "title": "Demon Slayer",
+        "author": "Koyoharu Gotouge",
+        "category": "ACTION",
+        "read_count": 391,
+        "favourite_count": 71,
+        "ratings": {
+            "users_count": 62,
+            "total_ratings": 248.0,
+            "average_rating": 4.0
+        },
+        "trending_score": 1241.5
+    },
+    {
+        "uid": "B00006",
+        "title": "Monster",
+        "author": "Naoki Urasawa",
+        "category": "Thriller & Mystery",
+        "read_count": 158,
+        "favourite_count": 10,
+        "ratings": {
+            "users_count": 14,
+            "total_ratings": 44.6,
+            "average_rating": 3.2
+        },
+        "trending_score": 288.1
+    },
+    {
+        "uid": "B00007",
+        "title": "100 Century",
+        "author": "Naoki Urasawa",
+        "category": "Thriller & Mystery",
+        "read_count": 78,
+        "favourite_count": 8,
+        "ratings": {
+            "users_count": 13,
+            "total_ratings": 53.6,
+            "average_rating": 4.1
+        },
+        "trending_score": 234.3
+    },
+    {
+        "uid": "B00008",
+        "title": "Berserk",
+        "author": "Kentaro Miura",
+        "category": "Horror",
+        "read_count": 237,
+        "favourite_count": 38,
+        "ratings": {
+            "users_count": 80,
+            "total_ratings": 166.0,
+            "average_rating": 2.1
+        },
+        "trending_score": 792.0
+    },
+    {
+        "uid": "B00009",
+        "title": "Vindland Saga",
+        "author": "Makoto Yukimura",
+        "category": "Dark Fantasy",
+        "read_count": 458,
+        "favourite_count": 88,
+        "ratings": {
+            "users_count": 70,
+            "total_ratings": 94.7,
+            "average_rating": 1.4
+        },
+        "trending_score": 859.1
+    },
+    {
+        "uid": "B00010",
+        "title": "Death Note",
+        "author": "Tsugumi Ohba",
+        "category": "Thriller & Mystery",
+        "read_count": 407,
+        "favourite_count": 10,
+        "ratings": {
+            "users_count": 53,
+            "total_ratings": 160.7,
+            "average_rating": 3.0
+        },
+        "trending_score": 904.1
+    },
+    {
+        "uid": "B00011",
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "category": "History",
+        "read_count": 137,
+        "favourite_count": 59,
+        "ratings": {
+            "users_count": 95,
+            "total_ratings": 185.39999999999998,
+            "average_rating": 2.0
+        },
+        "trending_score": 750.6
+    },
+    {
+        "uid": "B00012",
+        "title": "Smart ways to learn Programming",
+        "author": "Allen Myth",
+        "category": "AI & Technology",
+        "read_count": 350,
+        "favourite_count": 103,
+        "ratings": {
+            "users_count": 61,
+            "total_ratings": 144.89999999999998,
+            "average_rating": 2.4
+        },
+        "trending_score": 909.3
+    },
+    {
+        "uid": "B00013",
+        "title": "The AI Future Wave",
+        "author": "Michale Jordan",
+        "category": "AI & Technology",
+        "read_count": 216,
+        "favourite_count": 89,
+        "ratings": {
+            "users_count": 54,
+            "total_ratings": 221.4,
+            "average_rating": 4.1
+        },
+        "trending_score": 1012.7
+    },
+    {
+        "uid": "B00014",
+        "title": "The Tale Of Naruto Uzumaki",
+        "author": "Jiraya Sensie",
+        "category": "Fantasy",
+        "read_count": 0,
+        "favourite_count": 0,
+        "ratings": {
+            "users_count": 0,
+            "total_ratings": 0,
+            "average_rating": 0
+        },
+        "trending_score": 0
+    }
+]
